@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/startFreameWork/static/css/main.99bfacce.css",
+    "main.js": "/startFreameWork/static/js/main.db3ce314.js",
+    "static/js/592.d872c849.chunk.js": "/startFreameWork/static/js/592.d872c849.chunk.js",
+    "static/media/fa-solid-900.ttf": "/startFreameWork/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/startFreameWork/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/startFreameWork/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/startFreameWork/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/startFreameWork/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/poert1.png": "/startFreameWork/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/startFreameWork/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/startFreameWork/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/page_not_found.svg": "/startFreameWork/static/media/page_not_found.b9f326b2312344fd77c8584f34ac0937.svg",
+    "static/media/port2.png": "/startFreameWork/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/startFreameWork/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/startFreameWork/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/startFreameWork/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/startFreameWork/index.html",
+    "main.99bfacce.css.map": "/startFreameWork/static/css/main.99bfacce.css.map",
+    "main.db3ce314.js.map": "/startFreameWork/static/js/main.db3ce314.js.map",
+    "592.d872c849.chunk.js.map": "/startFreameWork/static/js/592.d872c849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99bfacce.css",
+    "static/js/main.db3ce314.js"
+  ]
+}
