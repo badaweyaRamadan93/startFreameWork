@@ -1,0 +1,22 @@
+.img-layer {
+  background-color: var(--main-color);
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.6s opacity;
+}
+.inner:hover .img-layer {
+  opacity: 1;
+}
+
+.modal {
+  --bs-modal-bg: transparent;
+  --bs-modal-padding: 0rem;
+  --bs-modal-margin: 0rem;
+
+  /* background-color: rgba(0, 0, 0, 0.1); */
+  background-color: rgba(13, 109, 253, 0.25);
+}
+
+.modal-header {
+  border-bottom: none;
+}

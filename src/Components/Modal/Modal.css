@@ -1,0 +1,10 @@
+.modal-container {
+  background-color: rgba(13, 109, 253, 0.25);
+  z-index: 1031;
+}
+
+.modal-image {
+  max-width: 90%;
+  height: auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}

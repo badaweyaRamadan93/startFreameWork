@@ -1,0 +1,27 @@
+.contact-form {
+  width: 100%;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+input {
+  z-index: 2;
+}
+label {
+  z-index: 1;
+  color: var(--main-color);
+  margin-bottom: 7px;
+  top: -40px;
+  transition: 0.5s;
+  opacity: 0;
+}
+input:not(:placeholder-shown) + label {
+  opacity: 1;
+  top: -80px;
+}
+
+@media screen and (min-width: 992px) {
+  .contact-form {
+    width: 50%;
+  }
+}
